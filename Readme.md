@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ component install component/page-trace
+    $ component install retrofox/page-trace
 
 ## How to use
 
