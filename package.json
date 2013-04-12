@@ -8,6 +8,8 @@
     "debug": "*"
   },
   "devDependencies": {
+    "express": "3.0.x",
+    "jade": "0.26.x",
     "better-assert": "*",
     "mocha": "*"
   },
