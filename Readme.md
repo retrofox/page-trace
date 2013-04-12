@@ -10,6 +10,7 @@
 ## How to use
 
 ```js
+var pagetrace = require('page-trace');
 page('/', pagetrace, function(ctx, next){
   console.log('trace: ', ctx.trace);
 });
