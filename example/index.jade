@@ -33,8 +33,9 @@ html
     script(src="build.js")
     script
       var page = require('visionmedia-page.js');
-      var o = require('component-jquery');
       var pagetrace = require('page-trace');
+      var o = require('component-jquery');
+
       var el = o('#trace ol');
 
       page('/:page?', pagetrace, function(ctx){
