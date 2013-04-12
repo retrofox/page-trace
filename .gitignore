@@ -1,3 +1,6 @@
-components
 build
+components
 node_modules
+example/build
+example/components
+example/node_modules

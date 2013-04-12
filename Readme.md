@@ -9,7 +9,11 @@
 
 ## Example
 
-  ./examples
+    cd exmaple/
+    make
+
+  open example/index.html
+
 
 ## License
 

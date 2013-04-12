@@ -1,25 +1,16 @@
 {
-  "name": "reactive",
-  "repo": "component/reactive",
-  "description": "Reactive template engine",
-  "version": "0.10.1",
-  "keywords": ["reactive", "template", "engine", "binding", "bindings"],
+  "name": "page-trace",
+  "repo": "retrofox/page-trace",
+  "description": "page.js trace middleware",
+  "version": "0.0.1",
+  "keywords": ["page", "page.js", "trace", "history", "page-history", "component"],
   "dependencies": {
-    "component/format-parser": "*",
-    "visionmedia/debug": "*",
-    "component/event": "*",
-    "component/classes": "*",
-    "component/query": "*"
+    "visionmedia/debug": "*"
   },
   "development": {
-    "component/assert": "*",
-    "component/domify": "*",
-    "component/emitter": "*"
   },
   "scripts": [
-    "lib/index.js",
-    "lib/binding.js",
-    "lib/bindings.js"
+    "lib/index.js"
   ],
   "main": "lib/index.js"
 }
