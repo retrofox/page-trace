@@ -8,7 +8,8 @@
     "visionmedia/debug": "*"
   },
   "development": {
-    "visionmedia/page.js": "*"
+    "visionmedia/page.js": "*",
+    "component/jquery": "*"
   },
   "scripts": [
     "lib/index.js"
