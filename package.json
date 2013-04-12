@@ -1,7 +1,7 @@
 {
   "name": "page-trace-component",
   "description": "Page.js trace middleware",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["page", "page.js", "trace", "history", "page-history", "component"],
   "main": "lib/index.js",
   "dependencies": {

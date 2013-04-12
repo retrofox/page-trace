@@ -2,7 +2,7 @@
   "name": "page-trace",
   "repo": "retrofox/page-trace",
   "description": "page.js trace middleware",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["page", "page.js", "trace", "history", "page-history", "component"],
   "dependencies": {
     "visionmedia/debug": "*"
