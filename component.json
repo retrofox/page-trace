@@ -8,6 +8,7 @@
     "visionmedia/debug": "*"
   },
   "development": {
+    "visionmedia/page.js": "*"
   },
   "scripts": [
     "lib/index.js"
