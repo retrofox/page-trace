@@ -12,7 +12,7 @@
 ```js
 var pagetrace = require('page-trace');
 page('/', pagetrace, function(ctx, next){
-  console.log('trace: ', ctx.trace);
+  console.log('trace: ', ctx.trace); // ['/', '/about', '/contact']
 });
 ```
 
